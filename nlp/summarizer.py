@@ -1,0 +1,1 @@
+class StandupSummarizer:\n    def summarize(self, text):\n        return 'Summary of updates'
