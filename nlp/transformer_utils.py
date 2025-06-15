@@ -1,0 +1,1 @@
+from transformers import pipeline\ndef load_model():\n    return pipeline('summarization', model='facebook/bart-large-cnn')
