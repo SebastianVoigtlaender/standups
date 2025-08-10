@@ -1,1 +1,1 @@
-# Standup Notes\nDaily updates.
+# NLP Standup Summarizer\n\nA lightweight NLP tool utilizing transformer models to automatically summarize daily engineering standup transcripts and extract key technical blockers.

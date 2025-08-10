@@ -1,0 +1,1 @@
+from nlp.summarizer import StandupSummarizer\nprint('Summarizing engineering standups using LLM.')
